@@ -1,0 +1,1378 @@
+2017-11-13 20:22:54,534 - MonitorApplication - DEBUG - logger stand by...
+2017-11-13 20:22:54,535 - MonitorApplication - DEBUG - Initializing ...
+
+2017-11-13 20:22:54,535 - MonitorApplication - DEBUG - 
+Local machine check...
+2017-11-14 21:57:36,077 - MonitorApplication - DEBUG - logger stand by...
+2017-11-14 21:57:36,078 - MonitorApplication - DEBUG - Initializing ...
+
+2017-11-14 21:57:36,079 - MonitorApplication - DEBUG - 
+Local machine check...
+2017-11-14 21:57:51,485 - MonitorApplication - DEBUG - logger stand by...
+2017-11-14 21:57:51,486 - MonitorApplication - DEBUG - Initializing ...
+
+2017-11-14 21:57:51,487 - MonitorApplication - DEBUG - 
+Local machine check...
+2017-11-14 21:57:51,488 - MonitorApplication - DEBUG - Local machine is confirmed.
+2017-11-14 21:57:51,494 - MonitorApplication - DEBUG - 
+Master machine check...
+2017-11-14 21:57:51,495 - MonitorApplication - DEBUG - Master machine is confirmed.
+2017-11-14 21:57:51,496 - MonitorApplication - DEBUG - 
+Encoder check...
+2017-11-14 21:57:51,497 - MonitorApplication - DEBUG - Encoder is confirmed.
+2017-11-14 21:57:51,498 - MonitorApplication - DEBUG - 
+Decoder check...
+2017-11-14 21:57:51,498 - MonitorApplication - DEBUG - Decoder is confirmed.
+2017-11-14 21:57:51,499 - MonitorApplication - DEBUG - 
+Message center check ...
+2017-11-14 21:57:51,500 - MonitorApplication - DEBUG - Message center is confirmed.
+2017-11-14 21:57:51,501 - MonitorApplication - DEBUG - Server start: local 127.0.0.1:9487
+2017-11-17 21:03:51,235 - MonitorApplication - DEBUG - logger stand by...
+2017-11-17 21:03:51,236 - MonitorApplication - DEBUG - Initializing ...
+
+2017-11-17 21:03:51,237 - MonitorApplication - DEBUG - 
+Local machine check...
+2017-11-17 21:03:51,239 - MonitorApplication - DEBUG - Local machine is confirmed.
+2017-11-17 21:03:51,239 - MonitorApplication - DEBUG - 
+Master machine check...
+2017-11-17 21:03:51,241 - MonitorApplication - DEBUG - Master machine is confirmed.
+2017-11-17 21:03:51,241 - MonitorApplication - DEBUG - 
+Encoder check...
+2017-11-17 21:03:51,242 - MonitorApplication - DEBUG - Encoder is confirmed.
+2017-11-17 21:03:51,243 - MonitorApplication - DEBUG - 
+Decoder check...
+2017-11-17 21:03:51,243 - MonitorApplication - DEBUG - Decoder is confirmed.
+2017-11-17 21:03:51,244 - MonitorApplication - DEBUG - 
+Message center check ...
+2017-11-17 21:03:51,245 - MonitorApplication - DEBUG - Message center is confirmed.
+2017-11-17 21:03:51,246 - MonitorApplication - DEBUG - Server start: local 127.0.0.1:9487
+2017-11-17 21:04:14,003 - MonitorApplication - DEBUG - logger stand by...
+2017-11-17 21:04:14,004 - MonitorApplication - DEBUG - Initializing ...
+
+2017-11-17 21:04:14,005 - MonitorApplication - DEBUG - 
+Local machine check...
+2017-11-17 21:05:08,765 - MonitorApplication - DEBUG - logger stand by...
+2017-11-17 21:05:08,766 - MonitorApplication - DEBUG - Initializing ...
+
+2017-11-17 21:05:08,767 - MonitorApplication - DEBUG - 
+Local machine check...
+2017-11-17 21:06:58,002 - MonitorApplication - DEBUG - logger stand by...
+2017-11-17 21:06:58,002 - MonitorApplication - DEBUG - Initializing ...
+
+2017-11-17 21:06:58,004 - MonitorApplication - DEBUG - 
+Local machine check...
+2017-11-17 21:06:58,005 - MonitorApplication - DEBUG - Local machine is confirmed.
+2017-11-17 21:06:58,005 - MonitorApplication - DEBUG - 
+Master machine check...
+2017-11-17 21:06:58,006 - MonitorApplication - DEBUG - Master machine is confirmed.
+2017-11-17 21:06:58,007 - MonitorApplication - DEBUG - 
+Encoder check...
+2017-11-17 21:06:58,008 - MonitorApplication - DEBUG - Encoder is confirmed.
+2017-11-17 21:06:58,008 - MonitorApplication - DEBUG - 
+Decoder check...
+2017-11-17 21:06:58,009 - MonitorApplication - DEBUG - Decoder is confirmed.
+2017-11-17 21:06:58,010 - MonitorApplication - DEBUG - 
+Message center check ...
+2017-11-17 21:06:58,011 - MonitorApplication - DEBUG - Message center is confirmed.
+2017-11-17 21:06:58,012 - MonitorApplication - DEBUG - Server start: local 127.0.0.1:9487
+2017-11-17 21:07:01,181 - MonitorApplication - DEBUG - logger stand by...
+2017-11-17 21:07:01,182 - MonitorApplication - DEBUG - Initializing ...
+
+2017-11-17 21:07:01,184 - MonitorApplication - DEBUG - 
+Local machine check...
+2017-11-17 21:07:01,186 - MonitorApplication - DEBUG - Local machine is confirmed.
+2017-11-17 21:07:01,187 - MonitorApplication - DEBUG - 
+Master machine check...
+2017-11-17 21:07:01,189 - MonitorApplication - DEBUG - Master machine is confirmed.
+2017-11-17 21:07:01,190 - MonitorApplication - DEBUG - 
+Encoder check...
+2017-11-17 21:07:01,191 - MonitorApplication - DEBUG - Encoder is confirmed.
+2017-11-17 21:07:01,191 - MonitorApplication - DEBUG - 
+Decoder check...
+2017-11-17 21:07:01,192 - MonitorApplication - DEBUG - Decoder is confirmed.
+2017-11-17 21:07:01,193 - MonitorApplication - DEBUG - 
+Message center check ...
+2017-11-17 21:07:01,194 - MonitorApplication - DEBUG - Message center is confirmed.
+2017-11-17 21:07:01,195 - MonitorApplication - DEBUG - Server start: local 127.0.0.1:9487
+2017-11-17 21:07:45,780 - MonitorApplication - DEBUG - logger stand by...
+2017-11-17 21:07:56,246 - MonitorApplication - DEBUG - Initializing ...
+
+2017-11-17 21:37:17,263 - MonitorApplication - DEBUG - logger stand by...
+2017-11-17 21:37:17,264 - MonitorApplication - DEBUG - Initializing ...
+
+2017-11-17 21:37:17,265 - MonitorApplication - DEBUG - 
+Local machine check...
+2017-11-17 21:37:17,266 - MonitorApplication - DEBUG - Local machine is confirmed.
+2017-11-17 21:37:17,267 - MonitorApplication - DEBUG - 
+Master machine check...
+2017-11-17 21:37:17,268 - MonitorApplication - DEBUG - Master machine is confirmed.
+2017-11-17 21:37:17,269 - MonitorApplication - DEBUG - 
+Encoder check...
+2017-11-17 21:37:17,269 - MonitorApplication - DEBUG - Encoder is confirmed.
+2017-11-17 21:37:17,270 - MonitorApplication - DEBUG - 
+Decoder check...
+2017-11-17 21:37:17,270 - MonitorApplication - DEBUG - Decoder is confirmed.
+2017-11-17 21:37:17,271 - MonitorApplication - DEBUG - 
+Message center check ...
+2017-11-17 21:37:17,272 - MonitorApplication - DEBUG - Message center is confirmed.
+2017-11-17 21:37:17,273 - MonitorApplication - DEBUG - Server start: local 127.0.0.1:9487
+2017-11-17 21:37:20,900 - MonitorApplication - DEBUG - logger stand by...
+2017-11-17 21:37:20,901 - MonitorApplication - DEBUG - Initializing ...
+
+2017-11-17 21:37:20,902 - MonitorApplication - DEBUG - 
+Local machine check...
+2017-11-17 21:37:20,903 - MonitorApplication - DEBUG - Local machine is confirmed.
+2017-11-17 21:37:20,904 - MonitorApplication - DEBUG - 
+Master machine check...
+2017-11-17 21:37:20,906 - MonitorApplication - DEBUG - Master machine is confirmed.
+2017-11-17 21:37:20,906 - MonitorApplication - DEBUG - 
+Encoder check...
+2017-11-17 21:37:20,907 - MonitorApplication - DEBUG - Encoder is confirmed.
+2017-11-17 21:37:20,908 - MonitorApplication - DEBUG - 
+Decoder check...
+2017-11-17 21:37:20,908 - MonitorApplication - DEBUG - Decoder is confirmed.
+2017-11-17 21:37:20,909 - MonitorApplication - DEBUG - 
+Message center check ...
+2017-11-17 21:37:20,911 - MonitorApplication - DEBUG - Message center is confirmed.
+2017-11-17 21:37:20,911 - MonitorApplication - DEBUG - Server start: local 127.0.0.1:9487
+2017-11-17 21:37:49,966 - MonitorApplication - DEBUG - logger stand by...
+2017-11-17 21:37:49,967 - MonitorApplication - DEBUG - Initializing ...
+
+2017-11-17 21:37:49,968 - MonitorApplication - DEBUG - 
+Local machine check...
+2017-11-17 21:37:49,970 - MonitorApplication - DEBUG - Local machine is confirmed.
+2017-11-17 21:37:49,970 - MonitorApplication - DEBUG - 
+Master machine check...
+2017-11-17 21:37:49,971 - MonitorApplication - DEBUG - Master machine is confirmed.
+2017-11-17 21:37:49,972 - MonitorApplication - DEBUG - 
+Encoder check...
+2017-11-17 21:37:49,973 - MonitorApplication - DEBUG - Encoder is confirmed.
+2017-11-17 21:37:49,973 - MonitorApplication - DEBUG - 
+Decoder check...
+2017-11-17 21:37:49,974 - MonitorApplication - DEBUG - Decoder is confirmed.
+2017-11-17 21:37:49,975 - MonitorApplication - DEBUG - 
+Message center check ...
+2017-11-17 21:37:49,976 - MonitorApplication - DEBUG - Message center is confirmed.
+2017-11-17 21:37:49,977 - MonitorApplication - DEBUG - Server start: local 127.0.0.1:9487
+2017-11-17 21:37:49,978 - MonitorApplication - DEBUG - wait for terminating
+2017-11-17 21:38:19,081 - MonitorApplication - DEBUG - logger stand by...
+2017-11-17 21:38:19,082 - MonitorApplication - DEBUG - Initializing ...
+
+2017-11-17 21:38:19,083 - MonitorApplication - DEBUG - 
+Local machine check...
+2017-11-17 21:38:19,084 - MonitorApplication - DEBUG - Local machine is confirmed.
+2017-11-17 21:38:19,085 - MonitorApplication - DEBUG - 
+Master machine check...
+2017-11-17 21:38:19,086 - MonitorApplication - DEBUG - Master machine is confirmed.
+2017-11-17 21:38:19,086 - MonitorApplication - DEBUG - 
+Encoder check...
+2017-11-17 21:38:19,087 - MonitorApplication - DEBUG - Encoder is confirmed.
+2017-11-17 21:38:19,088 - MonitorApplication - DEBUG - 
+Decoder check...
+2017-11-17 21:38:19,088 - MonitorApplication - DEBUG - Decoder is confirmed.
+2017-11-17 21:38:19,089 - MonitorApplication - DEBUG - 
+Message center check ...
+2017-11-17 21:38:19,090 - MonitorApplication - DEBUG - Message center is confirmed.
+2017-11-17 21:38:19,091 - MonitorApplication - DEBUG - Server start: local 127.0.0.1:9487
+2017-11-17 21:38:19,092 - MonitorApplication - DEBUG - wait for terminating
+2017-11-18 20:26:25,995 - MonitorApplication - DEBUG - logger stand by...
+2017-11-18 20:26:25,996 - MonitorApplication - DEBUG - Initializing ...
+
+2017-11-18 20:26:25,996 - MonitorApplication - DEBUG - 
+Local machine check...
+2017-11-18 20:26:25,997 - MonitorApplication - DEBUG - Local machine is confirmed.
+2017-11-18 20:26:25,997 - MonitorApplication - DEBUG - 
+Master machine check...
+2017-11-18 20:26:25,998 - MonitorApplication - DEBUG - Master machine is confirmed.
+2017-11-18 20:26:25,998 - MonitorApplication - DEBUG - 
+Encoder check...
+2017-11-18 20:26:25,999 - MonitorApplication - DEBUG - Encoder is confirmed.
+2017-11-18 20:26:25,999 - MonitorApplication - DEBUG - 
+Decoder check...
+2017-11-18 20:26:25,999 - MonitorApplication - DEBUG - Decoder is confirmed.
+2017-11-18 20:26:25,999 - MonitorApplication - DEBUG - 
+Message center check ...
+2017-11-18 20:26:26,000 - MonitorApplication - DEBUG - Message center is confirmed.
+2017-11-18 20:26:26,001 - MonitorApplication - DEBUG - Server start: local 127.0.0.1:9487
+2017-11-18 20:26:26,001 - MonitorApplication - DEBUG - wait for terminating
+2017-11-24 13:23:09,588 - MonitorApplication - DEBUG - logger stand by...
+2017-11-24 13:23:09,589 - MonitorApplication - DEBUG - Initializing ...
+
+2017-11-24 13:23:09,589 - MonitorApplication - DEBUG - 
+Local machine check...
+2017-11-24 13:23:09,590 - MonitorApplication - DEBUG - Local machine is confirmed.
+2017-11-24 13:23:09,591 - MonitorApplication - DEBUG - 
+Master machine check...
+2017-11-24 13:23:09,592 - MonitorApplication - DEBUG - Master machine is confirmed.
+2017-11-24 13:23:09,592 - MonitorApplication - DEBUG - 
+Encoder check...
+2017-11-24 13:23:09,592 - MonitorApplication - DEBUG - Encoder is confirmed.
+2017-11-24 13:23:09,592 - MonitorApplication - DEBUG - 
+Decoder check...
+2017-11-24 13:23:09,593 - MonitorApplication - DEBUG - Decoder is confirmed.
+2017-11-24 13:23:09,593 - MonitorApplication - DEBUG - 
+Message center check ...
+2017-11-24 13:23:09,594 - MonitorApplication - DEBUG - Message center is confirmed.
+2017-11-24 13:23:09,595 - MonitorApplication - DEBUG - Server start: local 127.0.0.1:9487
+2017-11-24 13:23:52,729 - MonitorApplication - DEBUG - logger stand by...
+2017-11-24 13:23:52,729 - MonitorApplication - DEBUG - Initializing ...
+
+2017-11-24 13:23:52,730 - MonitorApplication - DEBUG - 
+Local machine check...
+2017-11-24 13:23:54,965 - MonitorApplication - DEBUG - Local machine is confirmed.
+2017-11-24 13:23:54,966 - MonitorApplication - DEBUG - 
+Master machine check...
+2017-11-24 13:23:57,899 - MonitorApplication - DEBUG - Master machine is confirmed.
+2017-11-24 13:23:57,900 - MonitorApplication - DEBUG - 
+Encoder check...
+2017-11-24 13:23:57,901 - MonitorApplication - DEBUG - Encoder is confirmed.
+2017-11-24 13:23:57,901 - MonitorApplication - DEBUG - 
+Decoder check...
+2017-11-24 13:23:57,902 - MonitorApplication - DEBUG - Decoder is confirmed.
+2017-11-24 13:23:57,903 - MonitorApplication - DEBUG - 
+Message center check ...
+2017-11-24 13:23:57,904 - MonitorApplication - DEBUG - Message center is confirmed.
+2017-11-24 13:23:57,905 - MonitorApplication - DEBUG - Server start: local 127.0.0.1:9487
+2017-11-24 13:24:01,963 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-24 13:24:01,964 - MonitorApplication - DEBUG - 127.0.0.1 sent msg to 127.0.0.1:9487 : <Message.Message object at 0x0358AA90>
+2017-11-24 13:24:01,965 - MonitorApplication - DEBUG - Start a new thread
+2017-11-24 13:24:01,967 - MonitorApplication - DEBUG - local receive msg from local 127.0.0.1:9487 : clock change 10
+2017-11-24 13:24:01,968 - MonitorApplication - DEBUG - Disconnecting('127.0.0.1', 50604)
+2017-11-24 13:24:04,056 - MonitorApplication - DEBUG - Message Object, Destination: 127.0.0.1 Port: 9487 Type: status_h Content: [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:14'], '2017-11-24 13:24:04'] Sender: 127.0.0.1
+2017-11-24 13:24:04,057 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-24 13:24:04,058 - MonitorApplication - DEBUG - 127.0.0.1 sent msg to 127.0.0.1:9487 : <Message.Message object at 0x0363F210>
+2017-11-24 13:24:04,059 - MonitorApplication - DEBUG - Start a new thread
+2017-11-24 13:24:04,061 - MonitorApplication - DEBUG - local receive msg from local 127.0.0.1:9487 : [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:14'], '2017-11-24 13:24:04']
+2017-11-24 13:24:04,062 - MonitorApplication - DEBUG - Disconnecting('127.0.0.1', 50606)
+2017-11-24 13:24:04,771 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-24 13:24:04,772 - MonitorApplication - DEBUG - 127.0.0.1 sent msg to 127.0.0.1:9487 : <Message.Message object at 0x0363F190>
+2017-11-24 13:24:04,773 - MonitorApplication - DEBUG - Start a new thread
+2017-11-24 13:24:04,774 - MonitorApplication - DEBUG - local receive msg from local 127.0.0.1:9487 : [[['3.7', '34.7', '61.4', '25649262592', '6120706048', '19528556544', '76.1'], '2017-11-24 13:24:04'], [[{'memory_percent': 3.1938540028652064e-05, 'pid': 0, 'username': 'NT AUTHORITY\\SYSTEM', 'cpu_percent': 64.025, 'name': 'System Idle Process'}, {'memory_percent': 0.01943460160743478, 'pid': 4, 'username': 'NT AUTHORITY\\SYSTEM', 'cpu_percent': 0.3375, 'name': 'System'}, {'memory_percent': 0.06713481114022664, 'pid': 860, 'username': None, 'cpu_percent': 0.175, 'name': 'lsass.exe'}, {'memory_percent': 0.5579982328405803, 'pid': 1696, 'username': None, 'cpu_percent': 0.175, 'name': 'ekrn.exe'}, {'memory_percent': 14.86839644734844, 'pid': 2072, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 7.0125, 'name': 'vmware-vmx.exe'}, {'memory_percent': 7.209406794317559, 'pid': 11344, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.2625, 'name': 'vmware-vmx.exe'}, {'memory_percent': 11.831296798943857, 'pid': 14164, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 12.5, 'name': 'vmware-vmx.exe'}, {'memory_percent': 0.07297956396546997, 'pid': 28724, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 12.5, 'name': 'python.exe'}, {'memory_percent': 0.10079803233042592, 'pid': 29344, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.275, 'name': 'conhost.exe'}], '2017-11-24 13:24:04']]
+2017-11-24 13:24:04,775 - MonitorApplication - DEBUG - Disconnecting('127.0.0.1', 50607)
+2017-11-24 13:24:07,492 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-24 13:24:07,493 - MonitorApplication - DEBUG - 127.0.0.1 sent msg to 127.0.0.1:9487 : <Message.Message object at 0x03625E90>
+2017-11-24 13:24:07,494 - MonitorApplication - DEBUG - Start a new thread
+2017-11-24 13:24:07,495 - MonitorApplication - DEBUG - local receive msg from local 127.0.0.1:9487 : [[['0.8', '20.8', '78.4', '25649262592', '6120534016', '19528728576', '76.1'], '2017-11-24 13:24:06'], [[{'memory_percent': 3.1938540028652064e-05, 'pid': 0, 'username': 'NT AUTHORITY\\SYSTEM', 'cpu_percent': 78.1125, 'name': 'System Idle Process'}, {'memory_percent': 0.02483221487227698, 'pid': 852, 'username': None, 'cpu_percent': 0.075, 'name': 'services.exe'}, {'memory_percent': 14.86839644734844, 'pid': 2072, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 5.6, 'name': 'vmware-vmx.exe'}, {'memory_percent': 7.701835204479317, 'pid': 11192, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.1375, 'name': 'vmware-vmx.exe'}, {'memory_percent': 7.209406794317559, 'pid': 11344, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.2875, 'name': 'vmware-vmx.exe'}, {'memory_percent': 11.831296798943857, 'pid': 14164, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 12.7125, 'name': 'vmware-vmx.exe'}, {'memory_percent': 0.3927641960023488, 'pid': 20552, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.2875, 'name': 'Steam.exe'}, {'memory_percent': 0.07301150250549862, 'pid': 28724, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 3.3, 'name': 'python.exe'}], '2017-11-24 13:24:07']]
+2017-11-24 13:24:07,496 - MonitorApplication - DEBUG - Disconnecting('127.0.0.1', 50608)
+2017-11-24 13:24:37,729 - MonitorApplication - DEBUG - logger stand by...
+2017-11-24 13:24:37,730 - MonitorApplication - DEBUG - Initializing ...
+
+2017-11-24 13:24:37,731 - MonitorApplication - DEBUG - 
+Local machine check...
+2017-11-24 13:24:38,915 - MonitorApplication - DEBUG - Local machine is confirmed.
+2017-11-24 13:24:38,916 - MonitorApplication - DEBUG - 
+Master machine check...
+2017-11-24 13:24:39,652 - MonitorApplication - DEBUG - Master machine is confirmed.
+2017-11-24 13:24:39,653 - MonitorApplication - DEBUG - 
+Encoder check...
+2017-11-24 13:24:39,654 - MonitorApplication - DEBUG - Encoder is confirmed.
+2017-11-24 13:24:39,655 - MonitorApplication - DEBUG - 
+Decoder check...
+2017-11-24 13:24:39,655 - MonitorApplication - DEBUG - Decoder is confirmed.
+2017-11-24 13:24:39,656 - MonitorApplication - DEBUG - 
+Message center check ...
+2017-11-24 13:24:39,657 - MonitorApplication - DEBUG - Message center is confirmed.
+2017-11-24 13:24:39,658 - MonitorApplication - DEBUG - Server start: local 127.0.0.1:9487
+2017-11-24 13:24:43,812 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-24 13:24:43,812 - MonitorApplication - DEBUG - 127.0.0.1 sent msg to 127.0.0.1:9487 : <Message.Message object at 0x00DAAA10>
+2017-11-24 13:24:43,813 - MonitorApplication - DEBUG - Start a new thread
+2017-11-24 13:24:43,815 - MonitorApplication - DEBUG - local receive msg from local 127.0.0.1:9487 : clock change 10
+2017-11-24 13:24:43,815 - MonitorApplication - DEBUG - Disconnecting('127.0.0.1', 50614)
+2017-11-24 13:24:45,772 - MonitorApplication - DEBUG - Message Object, Destination: 127.0.0.1 Port: 9487 Type: status_h Content: [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:15'], '2017-11-24 13:24:45'] Sender: 127.0.0.1
+2017-11-24 13:24:45,773 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-24 13:24:45,774 - MonitorApplication - DEBUG - 127.0.0.1 sent msg to 127.0.0.1:9487 : <Message.Message object at 0x033B6C90>
+2017-11-24 13:24:45,774 - MonitorApplication - DEBUG - Start a new thread
+2017-11-24 13:24:45,776 - MonitorApplication - DEBUG - local receive msg from local 127.0.0.1:9487 : [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:15'], '2017-11-24 13:24:45']
+2017-11-24 13:24:45,777 - MonitorApplication - DEBUG - Disconnecting('127.0.0.1', 50615)
+2017-11-24 13:24:46,523 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-24 13:24:46,523 - MonitorApplication - DEBUG - 127.0.0.1 sent msg to 127.0.0.1:9487 : <Message.Message object at 0x033D3170>
+2017-11-24 13:24:46,524 - MonitorApplication - DEBUG - Start a new thread
+2017-11-24 13:24:46,526 - MonitorApplication - DEBUG - local receive msg from local 127.0.0.1:9487 : [[['3.4', '32.8', '62.8', '25649262592', '6103207936', '19546054656', '76.2'], '2017-11-24 13:24:45'], [[{'pid': 0, 'memory_percent': 3.1938540028652064e-05, 'username': 'NT AUTHORITY\\SYSTEM', 'cpu_percent': 65.1625, 'name': 'System Idle Process'}, {'pid': 4, 'memory_percent': 0.01943460160743478, 'username': 'NT AUTHORITY\\SYSTEM', 'cpu_percent': 0.525, 'name': 'System'}, {'pid': 1012, 'memory_percent': 0.05204385097668854, 'username': None, 'cpu_percent': 0.175, 'name': 'svchost.exe'}, {'pid': 1040, 'memory_percent': 0.022564578530242685, 'username': None, 'cpu_percent': 0.175, 'name': 'svchost.exe'}, {'pid': 1132, 'memory_percent': 1.3090170323443193, 'username': None, 'cpu_percent': 0.3625, 'name': 'dwm.exe'}, {'pid': 2072, 'memory_percent': 14.86865195566867, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 6.0625, 'name': 'vmware-vmx.exe'}, {'pid': 6612, 'memory_percent': 0.06018817868399482, 'username': None, 'cpu_percent': 0.225, 'name': 'audiodg.exe'}, {'pid': 8740, 'memory_percent': 0.07246854732501153, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 12.2625, 'name': 'python.exe'}, {'pid': 11344, 'memory_percent': 7.209406794317559, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.7375, 'name': 'vmware-vmx.exe'}, {'pid': 13260, 'memory_percent': 0.35295280585663397, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 2.9375, 'name': 'googledrivesync.exe'}, {'pid': 14164, 'memory_percent': 11.831376645293929, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 12.75, 'name': 'vmware-vmx.exe'}, {'pid': 16552, 'memory_percent': 0.4480498087919455, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.25, 'name': 'Skype.exe'}, {'pid': 27576, 'memory_percent': 1.0846328193730241, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.5125, 'name': 'devenv.exe'}], '2017-11-24 13:24:46']]
+2017-11-24 13:24:46,527 - MonitorApplication - DEBUG - Disconnecting('127.0.0.1', 50616)
+2017-11-24 13:24:57,250 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-24 13:24:57,251 - MonitorApplication - DEBUG - 127.0.0.1 sent msg to 127.0.0.1:9487 : <Message.Message object at 0x033B6E70>
+2017-11-24 13:24:57,252 - MonitorApplication - DEBUG - Start a new thread
+2017-11-24 13:24:57,253 - MonitorApplication - DEBUG - local receive msg from local 127.0.0.1:9487 : [[['0.8', '20.3', '78.5', '25649262592', '6109270016', '19539992576', '76.2'], '2017-11-24 13:24:56'], [[{'pid': 0, 'memory_percent': 3.1938540028652064e-05, 'username': 'NT AUTHORITY\\SYSTEM', 'cpu_percent': 78.6875, 'name': 'System Idle Process'}, {'pid': 4, 'memory_percent': 0.01943460160743478, 'username': 'NT AUTHORITY\\SYSTEM', 'cpu_percent': 0.05, 'name': 'System'}, {'pid': 852, 'memory_percent': 0.02483221487227698, 'username': None, 'cpu_percent': 0.0125, 'name': 'services.exe'}, {'pid': 1040, 'memory_percent': 0.022532639990214032, 'username': None, 'cpu_percent': 0.075, 'name': 'svchost.exe'}, {'pid': 1132, 'memory_percent': 1.278100525596584, 'username': None, 'cpu_percent': 0.1875, 'name': 'dwm.exe'}, {'pid': 1284, 'memory_percent': 0.036569628332806615, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.0125, 'name': 'ATH.exe'}, {'pid': 2072, 'memory_percent': 14.868667924938684, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 5.9625, 'name': 'vmware-vmx.exe'}, {'pid': 3212, 'memory_percent': 0.015474222643881924, 'username': None, 'cpu_percent': 0.0125, 'name': 'vmware-authd.exe'}, {'pid': 3564, 'memory_percent': 0.07960681102141527, 'username': None, 'cpu_percent': 0.0125, 'name': 'svchost.exe'}, {'pid': 3636, 'memory_percent': 0.03019788959709053, 'username': None, 'cpu_percent': 0.0375, 'name': 'AppleMobileDeviceService.exe'}, {'pid': 6612, 'memory_percent': 0.06018817868399482, 'username': None, 'cpu_percent': 0.0375, 'name': 'audiodg.exe'}, {'pid': 8740, 'memory_percent': 0.07135069842400872, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.8375, 'name': 'python.exe'}, {'pid': 10544, 'memory_percent': 0.47396793402519666, 'username': None, 'cpu_percent': 0.0375, 'name': 'SpaceSniffer.exe'}, {'pid': 10868, 'memory_percent': 0.48484300690495263, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.075, 'name': 'iTunes.exe'}, {'pid': 11192, 'memory_percent': 7.701915050829387, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.1125, 'name': 'vmware-vmx.exe'}, {'pid': 11344, 'memory_percent': 7.209518579207659, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.1625, 'name': 'vmware-vmx.exe'}, {'pid': 13260, 'memory_percent': 0.3545657021280809, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.15, 'name': 'googledrivesync.exe'}, {'pid': 14164, 'memory_percent': 11.831376645293929, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 12.6875, 'name': 'vmware-vmx.exe'}, {'pid': 16552, 'memory_percent': 0.4480498087919455, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.0375, 'name': 'Skype.exe'}, {'pid': 20552, 'memory_percent': 0.3926524111122485, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.0375, 'name': 'Steam.exe'}, {'pid': 27576, 'memory_percent': 1.0841697105426087, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.0125, 'name': 'devenv.exe'}, {'pid': 27840, 'memory_percent': 0.1006702781703113, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.0125, 'name': 'conhost.exe'}], '2017-11-24 13:24:57']]
+2017-11-24 13:24:57,254 - MonitorApplication - DEBUG - Disconnecting('127.0.0.1', 50671)
+2017-11-24 13:25:07,956 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-24 13:25:07,956 - MonitorApplication - DEBUG - 127.0.0.1 sent msg to 127.0.0.1:9487 : <Message.Message object at 0x033D3170>
+2017-11-24 13:25:07,957 - MonitorApplication - DEBUG - Start a new thread
+2017-11-24 13:25:07,959 - MonitorApplication - DEBUG - local receive msg from local 127.0.0.1:9487 : [[['0.6', '20.3', '78.7', '25649262592', '6112768000', '19536494592', '76.2'], '2017-11-24 13:25:07'], [[{'pid': 0, 'memory_percent': 3.1938540028652064e-05, 'username': 'NT AUTHORITY\\SYSTEM', 'cpu_percent': 78.8875, 'name': 'System Idle Process'}, {'pid': 4, 'memory_percent': 0.01943460160743478, 'username': 'NT AUTHORITY\\SYSTEM', 'cpu_percent': 0.1125, 'name': 'System'}, {'pid': 860, 'memory_percent': 0.06713481114022664, 'username': None, 'cpu_percent': 0.0125, 'name': 'lsass.exe'}, {'pid': 2072, 'memory_percent': 14.86869986347871, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 6.2375, 'name': 'vmware-vmx.exe'}, {'pid': 3212, 'memory_percent': 0.015474222643881924, 'username': None, 'cpu_percent': 0.0125, 'name': 'vmware-authd.exe'}, {'pid': 6612, 'memory_percent': 0.06018817868399482, 'username': None, 'cpu_percent': 0.075, 'name': 'audiodg.exe'}, {'pid': 7240, 'memory_percent': 7.460795042883079, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.0375, 'name': 'vmware-vmx.exe'}, {'pid': 8740, 'memory_percent': 0.07264420929516911, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.8, 'name': 'python.exe'}, {'pid': 10544, 'memory_percent': 0.47396793402519666, 'username': None, 'cpu_percent': 0.0375, 'name': 'SpaceSniffer.exe'}, {'pid': 11192, 'memory_percent': 7.701915050829387, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.15, 'name': 'vmware-vmx.exe'}, {'pid': 11344, 'memory_percent': 7.209518579207659, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.2, 'name': 'vmware-vmx.exe'}, {'pid': 13260, 'memory_percent': 0.3545816713980952, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.0125, 'name': 'googledrivesync.exe'}, {'pid': 14164, 'memory_percent': 11.831376645293929, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 12.7875, 'name': 'vmware-vmx.exe'}, {'pid': 16212, 'memory_percent': 0.19266924272284358, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.0125, 'name': 'mpc-hc64.exe'}, {'pid': 16552, 'memory_percent': 0.4480498087919455, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.0375, 'name': 'Skype.exe'}, {'pid': 20552, 'memory_percent': 0.3926204725722198, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.0375, 'name': 'Steam.exe'}, {'pid': 24340, 'memory_percent': 0.23805390810355814, 'username': 'DESKTOP-GSHCRVG\\LeeChingChan', 'cpu_percent': 0.075, 'name': 'uTorrent.exe'}], '2017-11-24 13:25:07']]
+2017-11-24 13:25:07,960 - MonitorApplication - DEBUG - Disconnecting('127.0.0.1', 50673)
+2017-11-25 12:48:02,189 - MonitorApplication - DEBUG - logger stand by...
+2017-11-25 12:48:02,190 - MonitorApplication - DEBUG - Initializing ...
+
+2017-11-25 12:48:02,191 - MonitorApplication - DEBUG - 
+Local machine check...
+2017-11-25 12:48:03,921 - MonitorApplication - DEBUG - Local machine is confirmed.
+2017-11-25 12:48:03,922 - MonitorApplication - DEBUG - 
+Master machine check...
+2017-11-25 12:48:08,766 - MonitorApplication - DEBUG - logger stand by...
+2017-11-25 12:48:08,767 - MonitorApplication - DEBUG - Initializing ...
+
+2017-11-25 12:48:08,769 - MonitorApplication - DEBUG - 
+Local machine check...
+2017-11-25 12:48:09,689 - MonitorApplication - DEBUG - Local machine is confirmed.
+2017-11-25 12:48:09,690 - MonitorApplication - DEBUG - 
+Master machine check...
+2017-11-25 12:48:10,385 - MonitorApplication - DEBUG - Master machine is confirmed.
+2017-11-25 12:48:10,386 - MonitorApplication - DEBUG - 
+Encoder check...
+2017-11-25 12:48:10,387 - MonitorApplication - DEBUG - Encoder is confirmed.
+2017-11-25 12:48:10,388 - MonitorApplication - DEBUG - 
+Decoder check...
+2017-11-25 12:48:10,388 - MonitorApplication - DEBUG - Decoder is confirmed.
+2017-11-25 12:48:10,389 - MonitorApplication - DEBUG - 
+Message center check ...
+2017-11-25 12:48:10,390 - MonitorApplication - DEBUG - Message center is confirmed.
+2017-11-25 12:48:10,391 - MonitorApplication - DEBUG - Server start: local 127.0.0.1:9487
+2017-11-26 23:07:23,949 - MonitorApplication - DEBUG - logger stand by...
+2017-11-26 23:07:23,949 - MonitorApplication - DEBUG - Initializing ...
+
+2017-11-26 23:07:23,951 - MonitorApplication - DEBUG - 
+Local machine check...
+2017-11-26 23:07:39,945 - MonitorApplication - DEBUG - Local machine is confirmed.
+2017-11-26 23:07:39,945 - MonitorApplication - DEBUG - 
+Master machine check...
+2017-11-26 23:07:52,808 - MonitorApplication - DEBUG - Master machine is confirmed.
+2017-11-26 23:07:52,808 - MonitorApplication - DEBUG - 
+Encoder check...
+2017-11-26 23:07:52,809 - MonitorApplication - DEBUG - Encoder is confirmed.
+2017-11-26 23:07:52,809 - MonitorApplication - DEBUG - 
+Decoder check...
+2017-11-26 23:07:52,810 - MonitorApplication - DEBUG - Decoder is confirmed.
+2017-11-26 23:07:52,810 - MonitorApplication - DEBUG - 
+Message center check ...
+2017-11-26 23:07:52,811 - MonitorApplication - DEBUG - Message center is confirmed.
+2017-11-26 23:07:52,812 - MonitorApplication - DEBUG - Server start: slave4 192.168.56.1:9487
+2017-11-26 23:12:48,176 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-26 23:12:48,177 - MonitorApplication - DEBUG - Start a new thread
+2017-11-26 23:12:48,178 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : ['test', 'test']
+2017-11-26 23:12:48,179 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 62476)
+2017-11-26 23:12:49,393 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-26 23:12:49,393 - MonitorApplication - DEBUG - Start a new thread
+2017-11-26 23:12:49,403 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 5
+2017-11-26 23:12:49,403 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 62477)
+2017-11-26 23:12:54,431 - MonitorApplication - DEBUG - Message Object, Destination: 192.168.249.141 Port: 9487 Type: status_h Content: [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:07'], '2017-11-26 23:12:54'] Sender: 192.168.56.1
+2017-11-26 23:12:54,436 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x0318BFD0>
+2017-11-26 23:12:55,508 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x0318BF30>
+2017-11-26 23:13:01,558 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x0318BE50>
+2017-11-26 23:13:07,567 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x0318BF50>
+2017-11-26 23:13:13,551 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x0318BE70>
+2017-11-26 23:13:19,533 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x0318BFD0>
+2017-11-26 23:13:25,558 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x0318BF30>
+2017-11-26 23:13:28,104 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-26 23:13:28,104 - MonitorApplication - DEBUG - Start a new thread
+2017-11-26 23:13:28,105 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 5
+2017-11-26 23:13:28,106 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 62495)
+2017-11-26 23:13:31,573 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x0318BBF0>
+2017-11-26 23:13:37,558 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x0318BFF0>
+2017-11-26 23:13:43,532 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x0318BE70>
+2017-11-26 23:13:49,378 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-26 23:13:49,397 - MonitorApplication - DEBUG - Start a new thread
+2017-11-26 23:13:49,425 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : stop transmit
+2017-11-26 23:13:49,446 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 62506)
+2017-11-26 23:13:49,537 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x0318BC10>
+2017-11-26 23:14:00,982 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-26 23:24:43,199 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-26 23:24:43,200 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.56.1:9487 : <Message.Message object at 0x0318BFF0>
+2017-11-26 23:24:43,200 - MonitorApplication - DEBUG - Start a new thread
+2017-11-26 23:24:43,201 - MonitorApplication - DEBUG - slave4 receive msg from slave4 192.168.56.1:9487 : terminate
+2017-11-26 23:24:43,201 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 62770)
+2017-11-26 23:24:45,910 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.56.1:9487 : <Message.Message object at 0x0318BE70>
+2017-11-26 23:24:45,910 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-26 23:24:45,911 - MonitorApplication - DEBUG - Start a new thread
+2017-11-26 23:24:45,911 - MonitorApplication - DEBUG - slave4 receive msg from slave4 192.168.56.1:9487 : terminate
+2017-11-26 23:24:45,911 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 62771)
+2017-11-26 23:36:59,354 - MonitorApplication - DEBUG - logger stand by...
+2017-11-26 23:36:59,355 - MonitorApplication - DEBUG - Initializing ...
+
+2017-11-26 23:36:59,356 - MonitorApplication - DEBUG - 
+Local machine check...
+2017-11-26 23:37:00,751 - MonitorApplication - DEBUG - Local machine is confirmed.
+2017-11-26 23:37:00,751 - MonitorApplication - DEBUG - 
+Master machine check...
+2017-11-26 23:37:02,423 - MonitorApplication - DEBUG - Master machine is confirmed.
+2017-11-26 23:37:02,423 - MonitorApplication - DEBUG - 
+Encoder check...
+2017-11-26 23:37:02,424 - MonitorApplication - DEBUG - Encoder is confirmed.
+2017-11-26 23:37:02,424 - MonitorApplication - DEBUG - 
+Decoder check...
+2017-11-26 23:37:02,424 - MonitorApplication - DEBUG - Decoder is confirmed.
+2017-11-26 23:37:02,424 - MonitorApplication - DEBUG - 
+Message center check ...
+2017-11-26 23:37:02,425 - MonitorApplication - DEBUG - Message center is confirmed.
+2017-11-26 23:37:02,426 - MonitorApplication - DEBUG - Server start: slave4 192.168.56.1:9487
+2017-11-26 23:40:36,902 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-26 23:40:36,902 - MonitorApplication - DEBUG - Start a new thread
+2017-11-26 23:40:36,903 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : ['test', 'test']
+2017-11-26 23:40:36,903 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63199)
+2017-11-26 23:40:37,214 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-26 23:40:37,215 - MonitorApplication - DEBUG - Start a new thread
+2017-11-26 23:40:37,224 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 5
+2017-11-26 23:40:37,225 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63200)
+2017-11-26 23:40:39,041 - MonitorApplication - DEBUG - Message Object, Destination: 192.168.249.141 Port: 9487 Type: status_h Content: [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:08'], '2017-11-26 23:40:39'] Sender: 192.168.56.1
+2017-11-26 23:40:39,043 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E14B0>
+2017-11-26 23:40:40,228 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x034906F0>
+2017-11-26 23:40:46,280 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1310>
+2017-11-26 23:40:52,352 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1390>
+2017-11-26 23:40:58,389 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E14B0>
+2017-11-26 23:41:04,402 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1330>
+2017-11-26 23:41:10,449 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1310>
+2017-11-26 23:41:16,449 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1390>
+2017-11-26 23:41:22,504 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E14B0>
+2017-11-26 23:41:28,679 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1330>
+2017-11-26 23:41:34,643 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1310>
+2017-11-26 23:41:40,732 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1390>
+2017-11-26 23:41:46,732 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E14B0>
+2017-11-26 23:41:52,858 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1330>
+2017-11-26 23:41:58,924 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1310>
+2017-11-26 23:42:05,124 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1390>
+2017-11-26 23:42:11,136 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E14B0>
+2017-11-26 23:42:17,443 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1330>
+2017-11-26 23:42:23,443 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1310>
+2017-11-26 23:42:29,479 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1390>
+2017-11-26 23:42:35,570 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E14B0>
+2017-11-26 23:42:41,703 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1330>
+2017-11-26 23:42:47,788 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1310>
+2017-11-26 23:42:53,863 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1390>
+2017-11-26 23:43:00,019 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E14B0>
+2017-11-26 23:43:06,108 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1330>
+2017-11-26 23:43:12,116 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1310>
+2017-11-26 23:43:18,177 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1390>
+2017-11-26 23:43:24,124 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E14B0>
+2017-11-26 23:43:30,165 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1330>
+2017-11-26 23:43:35,117 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-26 23:43:35,117 - MonitorApplication - DEBUG - Start a new thread
+2017-11-26 23:43:35,123 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : kill process 8000
+2017-11-26 23:43:35,123 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63333)
+2017-11-26 23:43:36,256 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E12F0>
+2017-11-26 23:43:42,244 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x0366BD30>
+2017-11-26 23:43:48,478 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F95B0>
+2017-11-26 23:43:54,705 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F9C70>
+2017-11-26 23:44:00,872 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F96B0>
+2017-11-26 23:44:06,968 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x0366BD30>
+2017-11-26 23:44:12,923 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F95B0>
+2017-11-26 23:44:19,039 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F9C70>
+2017-11-26 23:44:25,030 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F96B0>
+2017-11-26 23:44:31,015 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x0366BD30>
+2017-11-26 23:44:37,027 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F95B0>
+2017-11-26 23:44:43,013 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F9C70>
+2017-11-26 23:44:49,116 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F96B0>
+2017-11-26 23:44:55,145 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x0366BD30>
+2017-11-26 23:45:01,153 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F95B0>
+2017-11-26 23:45:07,093 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F9C70>
+2017-11-26 23:45:13,099 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F96B0>
+2017-11-26 23:45:19,273 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x0366BD30>
+2017-11-26 23:45:25,277 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F95B0>
+2017-11-26 23:45:31,280 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F9C70>
+2017-11-26 23:45:37,265 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F96B0>
+2017-11-26 23:45:43,231 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x0366BD30>
+2017-11-26 23:45:45,807 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-26 23:45:45,807 - MonitorApplication - DEBUG - Start a new thread
+2017-11-26 23:45:45,809 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : stop transmit
+2017-11-26 23:45:45,809 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63385)
+2017-11-26 23:45:50,187 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-26 23:45:56,190 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-26 23:48:15,889 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-26 23:48:15,889 - MonitorApplication - DEBUG - Start a new thread
+2017-11-26 23:48:15,890 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : ['test', 'test']
+2017-11-26 23:48:15,890 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63424)
+2017-11-26 23:48:16,243 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-26 23:48:16,244 - MonitorApplication - DEBUG - Start a new thread
+2017-11-26 23:48:16,309 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 5
+2017-11-26 23:48:16,309 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63425)
+2017-11-26 23:48:20,237 - MonitorApplication - DEBUG - Message Object, Destination: 192.168.249.141 Port: 9487 Type: status_h Content: [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:08'], '2017-11-26 23:48:20'] Sender: 192.168.56.1
+2017-11-26 23:48:20,238 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E12B0>
+2017-11-26 23:48:21,399 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x0366BD30>
+2017-11-26 23:48:27,417 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1330>
+2017-11-26 23:48:32,607 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-26 23:48:32,629 - MonitorApplication - DEBUG - Start a new thread
+2017-11-26 23:48:32,648 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : stop transmit
+2017-11-26 23:48:32,672 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63431)
+2017-11-26 23:48:34,471 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-26 23:48:40,474 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-26 23:49:32,114 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-26 23:49:32,114 - MonitorApplication - DEBUG - Start a new thread
+2017-11-26 23:49:32,115 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : ['test', 'test']
+2017-11-26 23:49:32,115 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63458)
+2017-11-26 23:49:32,515 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-26 23:49:32,515 - MonitorApplication - DEBUG - Start a new thread
+2017-11-26 23:49:32,521 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 5
+2017-11-26 23:49:32,521 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63459)
+2017-11-26 23:49:36,317 - MonitorApplication - DEBUG - Message Object, Destination: 192.168.249.141 Port: 9487 Type: status_h Content: [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:08'], '2017-11-26 23:49:36'] Sender: 192.168.56.1
+2017-11-26 23:49:36,318 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x034906F0>
+2017-11-26 23:49:37,356 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x0366BD30>
+2017-11-26 23:49:39,123 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-26 23:49:39,123 - MonitorApplication - DEBUG - Start a new thread
+2017-11-26 23:49:39,125 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : stop transmit
+2017-11-26 23:49:39,126 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63464)
+2017-11-26 23:49:43,376 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-26 23:50:55,371 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-26 23:50:55,371 - MonitorApplication - DEBUG - Start a new thread
+2017-11-26 23:50:55,373 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : ['test', 'test']
+2017-11-26 23:50:55,373 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63486)
+2017-11-26 23:50:55,742 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-26 23:50:55,743 - MonitorApplication - DEBUG - Start a new thread
+2017-11-26 23:50:55,748 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 5
+2017-11-26 23:50:55,748 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63487)
+2017-11-26 23:50:57,308 - MonitorApplication - DEBUG - Message Object, Destination: 192.168.249.141 Port: 9487 Type: status_h Content: [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:08'], '2017-11-26 23:50:57'] Sender: 192.168.56.1
+2017-11-26 23:50:57,312 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1330>
+2017-11-26 23:50:58,405 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F96B0>
+2017-11-26 23:51:04,421 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x0366BD30>
+2017-11-26 23:51:10,520 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F95B0>
+2017-11-26 23:51:16,513 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x0366BD30>
+2017-11-26 23:51:22,508 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F96B0>
+2017-11-26 23:51:28,545 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x0366BD30>
+2017-11-26 23:51:29,341 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-26 23:51:29,341 - MonitorApplication - DEBUG - Start a new thread
+2017-11-26 23:51:29,342 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : stop transmit
+2017-11-26 23:51:29,342 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63498)
+2017-11-26 23:51:34,571 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-26 23:53:11,768 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-26 23:53:11,768 - MonitorApplication - DEBUG - Start a new thread
+2017-11-26 23:53:11,770 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : ['test', 'test']
+2017-11-26 23:53:11,770 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63556)
+2017-11-26 23:53:12,186 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-26 23:53:12,187 - MonitorApplication - DEBUG - Start a new thread
+2017-11-26 23:53:12,192 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 5
+2017-11-26 23:53:12,193 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63558)
+2017-11-26 23:53:13,336 - MonitorApplication - DEBUG - Message Object, Destination: 192.168.249.141 Port: 9487 Type: status_h Content: [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:08'], '2017-11-26 23:53:13'] Sender: 192.168.56.1
+2017-11-26 23:53:13,339 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F9C70>
+2017-11-26 23:53:14,334 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x0366BD30>
+2017-11-26 23:53:20,499 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F9C70>
+2017-11-26 23:53:26,495 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x034906F0>
+2017-11-26 23:53:32,546 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F9C70>
+2017-11-26 23:53:38,539 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x0366BD30>
+2017-11-26 23:53:44,556 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F9C70>
+2017-11-26 23:53:50,556 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x034906F0>
+2017-11-26 23:53:56,653 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F9C70>
+2017-11-26 23:53:59,922 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-26 23:53:59,922 - MonitorApplication - DEBUG - Start a new thread
+2017-11-26 23:53:59,928 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 2
+2017-11-26 23:53:59,928 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63611)
+2017-11-26 23:54:02,657 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1410>
+2017-11-26 23:54:08,668 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F96B0>
+2017-11-26 23:54:11,641 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1550>
+2017-11-26 23:54:14,606 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F9C70>
+2017-11-26 23:54:17,590 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1270>
+2017-11-26 23:54:20,587 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F96B0>
+2017-11-26 23:54:23,642 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E13B0>
+2017-11-26 23:54:26,653 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F9C70>
+2017-11-26 23:54:29,671 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E12B0>
+2017-11-26 23:54:32,684 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F96B0>
+2017-11-26 23:54:35,666 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1330>
+2017-11-26 23:54:38,667 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F9C70>
+2017-11-26 23:54:41,665 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1410>
+2017-11-26 23:54:44,698 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F96B0>
+2017-11-26 23:54:47,729 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1550>
+2017-11-26 23:54:50,889 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F9C70>
+2017-11-26 23:54:53,896 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1270>
+2017-11-26 23:54:56,818 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F96B0>
+2017-11-26 23:54:59,788 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E13B0>
+2017-11-26 23:55:02,755 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F9C70>
+2017-11-26 23:55:05,743 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1550>
+2017-11-26 23:55:08,691 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F96B0>
+2017-11-26 23:55:11,642 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1270>
+2017-11-26 23:55:14,561 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F9C70>
+2017-11-26 23:55:17,483 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E13B0>
+2017-11-26 23:55:20,422 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F96B0>
+2017-11-26 23:55:23,401 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1550>
+2017-11-26 23:55:26,355 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F9C70>
+2017-11-26 23:55:29,283 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1270>
+2017-11-26 23:55:32,251 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F96B0>
+2017-11-26 23:55:35,223 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E13B0>
+2017-11-26 23:55:35,644 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-26 23:55:35,645 - MonitorApplication - DEBUG - Start a new thread
+2017-11-26 23:55:35,650 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 5
+2017-11-26 23:55:35,650 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63663)
+2017-11-26 23:55:38,189 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E12F0>
+2017-11-26 23:55:38,420 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-26 23:55:38,420 - MonitorApplication - DEBUG - Start a new thread
+2017-11-26 23:55:38,421 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : stop transmit
+2017-11-26 23:55:38,422 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63665)
+2017-11-26 23:55:42,134 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-26 23:55:48,137 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 00:01:56,575 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 00:01:56,575 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 00:01:56,576 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : ['test', 'test']
+2017-11-27 00:01:56,576 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63792)
+2017-11-27 00:02:35,197 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 00:02:35,198 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 00:02:35,199 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : ['test', 'test']
+2017-11-27 00:02:35,199 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63801)
+2017-11-27 00:02:35,553 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 00:02:35,553 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 00:02:35,559 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 5
+2017-11-27 00:02:35,559 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63802)
+2017-11-27 00:02:39,371 - MonitorApplication - DEBUG - Message Object, Destination: 192.168.249.141 Port: 9487 Type: status_h Content: [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:08'], '2017-11-27 00:02:39'] Sender: 192.168.56.1
+2017-11-27 00:02:39,373 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F95B0>
+2017-11-27 00:02:40,327 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x034906F0>
+2017-11-27 00:02:46,239 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F95B0>
+2017-11-27 00:02:52,215 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x0366BD30>
+2017-11-27 00:02:58,122 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F95B0>
+2017-11-27 00:03:04,048 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x034906F0>
+2017-11-27 00:03:10,017 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F95B0>
+2017-11-27 00:03:15,970 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x0366BD30>
+2017-11-27 00:03:21,925 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F95B0>
+2017-11-27 00:03:27,893 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x034906F0>
+2017-11-27 00:03:33,853 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F95B0>
+2017-11-27 00:03:39,787 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F9F10>
+2017-11-27 00:03:40,232 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 00:03:40,232 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 00:03:40,238 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 5
+2017-11-27 00:03:40,238 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63824)
+2017-11-27 00:03:44,261 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 00:03:44,261 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 00:03:44,262 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : stop transmit
+2017-11-27 00:03:44,262 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63827)
+2017-11-27 00:03:45,804 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 00:03:46,416 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 00:03:46,416 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 00:03:46,417 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : ['test', 'test']
+2017-11-27 00:03:46,418 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63830)
+2017-11-27 00:03:46,783 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 00:03:46,784 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 00:03:46,789 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 5
+2017-11-27 00:03:46,789 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63831)
+2017-11-27 00:03:50,329 - MonitorApplication - DEBUG - Message Object, Destination: 192.168.249.141 Port: 9487 Type: status_h Content: [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:08'], '2017-11-27 00:03:50'] Sender: 192.168.56.1
+2017-11-27 00:03:50,330 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1270>
+2017-11-27 00:03:51,368 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036E1210>
+2017-11-27 00:03:51,753 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 00:03:51,753 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 00:03:51,754 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 5
+2017-11-27 00:03:51,754 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63836)
+2017-11-27 00:03:54,088 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 00:03:54,089 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 00:03:54,091 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : stop transmit
+2017-11-27 00:03:54,091 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63837)
+2017-11-27 00:03:57,395 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 00:04:33,044 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 00:04:33,044 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 00:04:33,068 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : ['test', 'test']
+2017-11-27 00:04:33,068 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63853)
+2017-11-27 00:04:33,467 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 00:04:33,467 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 00:04:33,473 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 5
+2017-11-27 00:04:33,473 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63854)
+2017-11-27 00:04:36,310 - MonitorApplication - DEBUG - Message Object, Destination: 192.168.249.141 Port: 9487 Type: status_h Content: [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:08'], '2017-11-27 00:04:36'] Sender: 192.168.56.1
+2017-11-27 00:04:36,312 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x034906F0>
+2017-11-27 00:04:37,348 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F9F10>
+2017-11-27 00:04:43,257 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x034906F0>
+2017-11-27 00:04:49,168 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F96B0>
+2017-11-27 00:04:55,092 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x034906F0>
+2017-11-27 00:05:01,064 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F9F10>
+2017-11-27 00:05:07,059 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x034906F0>
+2017-11-27 00:05:13,096 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F96B0>
+2017-11-27 00:05:19,219 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x034906F0>
+2017-11-27 00:05:25,218 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F9F10>
+2017-11-27 00:05:31,183 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x034906F0>
+2017-11-27 00:05:37,216 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x036F96B0>
+2017-11-27 00:05:42,774 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 00:05:42,797 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 00:05:42,823 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 5
+2017-11-27 00:05:42,848 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63890)
+2017-11-27 00:05:43,286 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x034906F0>
+2017-11-27 00:05:45,570 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 00:05:45,571 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 00:05:45,572 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : stop transmit
+2017-11-27 00:05:45,572 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 63892)
+2017-11-27 00:05:49,312 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 00:07:55,816 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.56.1:9487 : <Message.Message object at 0x034906F0>
+2017-11-27 00:07:55,816 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 00:07:55,816 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 00:07:55,817 - MonitorApplication - DEBUG - slave4 receive msg from slave4 192.168.56.1:9487 : terminate
+2017-11-27 00:07:55,817 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 64015)
+2017-11-27 00:07:56,656 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.56.1:9487 : <Message.Message object at 0x036F96B0>
+2017-11-27 00:07:56,656 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 00:07:56,657 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 00:07:56,658 - MonitorApplication - DEBUG - slave4 receive msg from slave4 192.168.56.1:9487 : terminate
+2017-11-27 00:07:56,658 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 64016)
+2017-11-27 20:04:46,616 - MonitorApplication - DEBUG - logger stand by...
+2017-11-27 20:04:46,617 - MonitorApplication - DEBUG - Initializing ...
+
+2017-11-27 20:04:46,618 - MonitorApplication - DEBUG - 
+Local machine check...
+2017-11-27 20:08:38,730 - MonitorApplication - DEBUG - Local machine is confirmed.
+2017-11-27 20:08:38,730 - MonitorApplication - DEBUG - 
+Master machine check...
+2017-11-27 20:08:39,250 - MonitorApplication - DEBUG - Master machine is confirmed.
+2017-11-27 20:08:39,250 - MonitorApplication - DEBUG - 
+Encoder check...
+2017-11-27 20:08:39,251 - MonitorApplication - DEBUG - Encoder is confirmed.
+2017-11-27 20:08:39,251 - MonitorApplication - DEBUG - 
+Decoder check...
+2017-11-27 20:08:39,251 - MonitorApplication - DEBUG - Decoder is confirmed.
+2017-11-27 20:08:39,252 - MonitorApplication - DEBUG - 
+Message center check ...
+2017-11-27 20:08:39,252 - MonitorApplication - DEBUG - Message center is confirmed.
+2017-11-27 20:08:39,253 - MonitorApplication - DEBUG - Server start: slave4 192.168.56.1:9487
+2017-11-27 20:12:54,554 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:12:54,554 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:12:54,561 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : ['test', 'test']
+2017-11-27 20:12:54,561 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58297)
+2017-11-27 20:12:56,092 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:12:56,092 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:12:56,098 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 5
+2017-11-27 20:12:56,098 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58298)
+2017-11-27 20:13:00,398 - MonitorApplication - DEBUG - Message Object, Destination: 192.168.249.141 Port: 9487 Type: status_h Content: [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:08'], '2017-11-27 20:13:00'] Sender: 192.168.56.1
+2017-11-27 20:13:00,409 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D614D0>
+2017-11-27 20:13:01,108 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D49F70>
+2017-11-27 20:13:06,823 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61330>
+2017-11-27 20:13:12,609 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61570>
+2017-11-27 20:13:18,568 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D614D0>
+2017-11-27 20:13:24,374 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61350>
+2017-11-27 20:13:30,222 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61330>
+2017-11-27 20:13:36,082 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61570>
+2017-11-27 20:13:42,001 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D614D0>
+2017-11-27 20:13:47,942 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61350>
+2017-11-27 20:13:53,767 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61330>
+2017-11-27 20:13:59,598 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61570>
+2017-11-27 20:14:05,421 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D614D0>
+2017-11-27 20:14:11,272 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61350>
+2017-11-27 20:14:16,118 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:14:16,118 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:14:16,120 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : stop transmit
+2017-11-27 20:14:16,120 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58325)
+2017-11-27 20:14:18,096 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:14:24,122 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:19:27,873 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:19:27,874 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:19:27,876 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : ['test', 'test']
+2017-11-27 20:19:27,876 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58451)
+2017-11-27 20:19:28,118 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:19:28,118 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:19:28,123 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 5
+2017-11-27 20:19:28,124 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58452)
+2017-11-27 20:19:31,525 - MonitorApplication - DEBUG - Message Object, Destination: 192.168.249.141 Port: 9487 Type: status_h Content: [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:08'], '2017-11-27 20:19:31'] Sender: 192.168.56.1
+2017-11-27 20:19:31,528 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61250>
+2017-11-27 20:19:32,638 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61430>
+2017-11-27 20:19:38,705 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613D0>
+2017-11-27 20:19:44,770 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D612D0>
+2017-11-27 20:19:50,829 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61B90>
+2017-11-27 20:19:56,903 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 20:20:02,928 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61430>
+2017-11-27 20:20:09,872 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:20:16,846 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:20:23,784 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:20:30,727 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:20:37,651 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:20:44,628 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:20:51,570 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:20:58,512 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:21:05,443 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:21:12,568 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:21:19,490 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:21:26,407 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:21:33,403 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:21:40,278 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:21:47,180 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:21:54,097 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:22:00,987 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:22:07,900 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:22:14,807 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:22:21,792 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:22:28,729 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:22:35,627 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:22:42,542 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:22:49,453 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:22:50,324 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.56.1:9487 : <Message.Message object at 0x03D61250>
+2017-11-27 20:22:50,324 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:22:50,326 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:22:50,327 - MonitorApplication - DEBUG - slave4 receive msg from slave4 192.168.56.1:9487 : stop transmit
+2017-11-27 20:22:50,327 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58540)
+2017-11-27 20:22:55,455 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:24:20,420 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:24:20,420 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:24:20,421 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : ['test', 'test']
+2017-11-27 20:24:20,421 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58552)
+2017-11-27 20:24:20,877 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:24:20,877 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:24:20,883 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 5
+2017-11-27 20:24:20,883 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58553)
+2017-11-27 20:24:22,460 - MonitorApplication - DEBUG - Message Object, Destination: 192.168.249.141 Port: 9487 Type: status_h Content: [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:08'], '2017-11-27 20:24:22'] Sender: 192.168.56.1
+2017-11-27 20:24:22,462 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61330>
+2017-11-27 20:24:23,400 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 20:24:29,349 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 20:24:35,315 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:24:41,286 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613D0>
+2017-11-27 20:24:47,262 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 20:24:53,196 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61330>
+2017-11-27 20:24:59,234 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:25:00,605 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:25:00,605 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:25:00,608 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : stop transmit
+2017-11-27 20:25:00,608 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58567)
+2017-11-27 20:25:05,281 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:27:22,760 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:27:22,761 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:27:22,762 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : ['test', 'test']
+2017-11-27 20:27:22,762 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58583)
+2017-11-27 20:27:23,181 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:27:23,181 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:27:23,186 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 5
+2017-11-27 20:27:23,187 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58584)
+2017-11-27 20:27:28,389 - MonitorApplication - DEBUG - Message Object, Destination: 192.168.249.141 Port: 9487 Type: status_h Content: [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:08'], '2017-11-27 20:27:28'] Sender: 192.168.56.1
+2017-11-27 20:27:28,390 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61B90>
+2017-11-27 20:27:29,324 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 20:27:35,300 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61310>
+2017-11-27 20:27:41,355 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:27:47,390 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613D0>
+2017-11-27 20:27:53,517 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 20:27:59,506 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61B90>
+2017-11-27 20:28:05,468 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:28:11,412 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61310>
+2017-11-27 20:28:17,405 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 20:28:24,294 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:28:31,136 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:28:38,005 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:28:39,209 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:28:39,210 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:28:39,213 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : ['test', 'test']
+2017-11-27 20:28:39,213 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58612)
+2017-11-27 20:28:43,900 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D614D0>
+2017-11-27 20:28:49,790 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 20:28:55,693 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61290>
+2017-11-27 20:29:01,603 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61330>
+2017-11-27 20:29:07,477 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61B90>
+2017-11-27 20:29:17,949 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:29:24,790 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:29:31,686 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:29:38,515 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:29:42,514 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.56.1:9487 : <Message.Message object at 0x03D61250>
+2017-11-27 20:29:42,515 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:29:42,517 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:29:42,518 - MonitorApplication - DEBUG - slave4 receive msg from slave4 192.168.56.1:9487 : stop transmit
+2017-11-27 20:29:42,518 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58633)
+2017-11-27 20:29:44,517 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:31:23,644 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:31:23,645 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:31:23,646 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : ['test', 'test']
+2017-11-27 20:31:23,646 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58664)
+2017-11-27 20:31:24,038 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:31:24,038 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:31:24,044 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 2
+2017-11-27 20:31:24,044 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58665)
+2017-11-27 20:31:29,308 - MonitorApplication - DEBUG - Message Object, Destination: 192.168.249.141 Port: 9487 Type: status_h Content: [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:08'], '2017-11-27 20:31:29'] Sender: 192.168.56.1
+2017-11-27 20:31:29,309 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61350>
+2017-11-27 20:31:30,228 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79CD0>
+2017-11-27 20:31:33,177 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:31:36,069 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 20:31:39,011 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:31:41,890 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79CD0>
+2017-11-27 20:31:44,842 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:31:47,697 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 20:31:50,561 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:31:53,593 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79CD0>
+2017-11-27 20:31:56,483 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:31:56,734 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:31:56,734 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:31:56,752 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 2
+2017-11-27 20:31:56,753 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58682)
+2017-11-27 20:31:59,439 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D612D0>
+2017-11-27 20:32:01,571 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:32:01,590 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:32:01,624 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 2
+2017-11-27 20:32:01,645 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58689)
+2017-11-27 20:32:02,483 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:32:04,277 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:32:04,277 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:32:04,280 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : stop transmit
+2017-11-27 20:32:04,280 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58702)
+2017-11-27 20:32:05,522 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:34:34,105 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:34:34,105 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:34:34,106 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : ['test', 'test']
+2017-11-27 20:34:34,107 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58741)
+2017-11-27 20:34:34,399 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:34:34,400 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:34:34,418 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 2
+2017-11-27 20:34:34,419 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58742)
+2017-11-27 20:34:40,421 - MonitorApplication - DEBUG - Message Object, Destination: 192.168.249.141 Port: 9487 Type: status_h Content: [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:08'], '2017-11-27 20:34:40'] Sender: 192.168.56.1
+2017-11-27 20:34:40,426 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61330>
+2017-11-27 20:34:41,398 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:34:44,434 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61430>
+2017-11-27 20:34:47,475 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:34:50,472 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61350>
+2017-11-27 20:34:53,551 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:34:56,531 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61330>
+2017-11-27 20:34:59,560 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:35:02,581 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61430>
+2017-11-27 20:35:05,667 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:35:08,666 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61350>
+2017-11-27 20:35:11,698 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:35:14,722 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61330>
+2017-11-27 20:35:17,785 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:35:20,815 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61430>
+2017-11-27 20:35:23,812 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:35:26,843 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61350>
+2017-11-27 20:35:29,854 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:35:32,899 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61330>
+2017-11-27 20:35:35,866 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:35:38,904 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61430>
+2017-11-27 20:35:41,946 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:35:45,023 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61350>
+2017-11-27 20:35:48,072 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:35:51,167 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61330>
+2017-11-27 20:35:54,175 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:35:57,186 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61430>
+2017-11-27 20:36:00,219 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:36:03,169 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61350>
+2017-11-27 20:36:06,249 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:36:09,317 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61330>
+2017-11-27 20:36:12,334 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:36:15,348 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61430>
+2017-11-27 20:36:18,388 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:36:21,388 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61350>
+2017-11-27 20:36:24,384 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:36:27,462 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61330>
+2017-11-27 20:36:30,418 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:36:33,448 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61430>
+2017-11-27 20:36:36,558 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:36:39,625 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61350>
+2017-11-27 20:36:42,868 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:36:45,947 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61330>
+2017-11-27 20:36:48,948 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:36:51,952 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61430>
+2017-11-27 20:36:54,912 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:36:57,958 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61350>
+2017-11-27 20:37:00,958 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:37:04,050 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61330>
+2017-11-27 20:37:07,068 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:37:10,025 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61430>
+2017-11-27 20:37:13,124 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:37:16,218 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61350>
+2017-11-27 20:37:19,367 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:37:22,368 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61330>
+2017-11-27 20:37:25,417 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:37:28,415 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61430>
+2017-11-27 20:37:31,425 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:37:34,471 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61350>
+2017-11-27 20:37:37,511 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:37:40,545 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61330>
+2017-11-27 20:37:43,592 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:37:46,650 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61430>
+2017-11-27 20:37:49,678 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:37:52,745 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61350>
+2017-11-27 20:37:56,693 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:38:00,575 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:38:04,510 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:38:08,447 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:38:12,296 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:38:16,155 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:38:19,980 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:38:23,798 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:38:27,630 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:38:31,465 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:38:35,285 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:38:39,123 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:38:42,986 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:38:46,822 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:38:50,657 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:38:54,511 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:38:58,297 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:39:02,118 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:39:03,148 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:39:03,148 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:39:03,151 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : ['test', 'test']
+2017-11-27 20:39:03,151 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58888)
+2017-11-27 20:39:03,534 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:39:03,535 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:39:03,541 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 2
+2017-11-27 20:39:03,541 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58889)
+2017-11-27 20:39:05,027 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D612F0>
+2017-11-27 20:39:07,972 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61330>
+2017-11-27 20:39:10,728 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:39:10,745 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:39:10,773 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : stop transmit
+2017-11-27 20:39:10,791 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58893)
+2017-11-27 20:39:10,942 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:39:13,899 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 20:39:15,937 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:39:28,960 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:39:28,961 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:39:28,966 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 10
+2017-11-27 20:39:28,966 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58898)
+2017-11-27 20:39:31,381 - MonitorApplication - DEBUG - Message Object, Destination: 192.168.249.141 Port: 9487 Type: status_h Content: [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:08'], '2017-11-27 20:39:31'] Sender: 192.168.56.1
+2017-11-27 20:39:31,390 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79CD0>
+2017-11-27 20:39:32,218 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:39:43,095 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79CD0>
+2017-11-27 20:39:53,997 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:40:04,846 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79CD0>
+2017-11-27 20:40:15,765 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:40:26,713 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79CD0>
+2017-11-27 20:40:37,632 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:40:48,488 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79CD0>
+2017-11-27 20:40:59,396 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:41:05,582 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:41:05,582 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:41:05,585 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : stop transmit
+2017-11-27 20:41:05,585 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58925)
+2017-11-27 20:41:10,446 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:41:18,636 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:41:18,636 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:41:18,639 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : ['test', 'test']
+2017-11-27 20:41:18,639 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58928)
+2017-11-27 20:41:19,000 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:41:19,000 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:41:19,006 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 2
+2017-11-27 20:41:19,006 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58929)
+2017-11-27 20:41:22,341 - MonitorApplication - DEBUG - Message Object, Destination: 192.168.249.141 Port: 9487 Type: status_h Content: [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:08'], '2017-11-27 20:41:22'] Sender: 192.168.56.1
+2017-11-27 20:41:22,343 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D614D0>
+2017-11-27 20:41:23,263 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:41:26,229 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61350>
+2017-11-27 20:41:29,086 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 20:41:32,023 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 20:41:32,850 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:41:32,850 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:41:32,855 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : stop transmit
+2017-11-27 20:41:32,856 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58935)
+2017-11-27 20:41:34,941 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613D0>
+2017-11-27 20:41:37,828 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79CD0>
+2017-11-27 20:41:39,856 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613D0>
+2017-11-27 20:45:38,656 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:45:38,656 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:45:38,659 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : stop transmit
+2017-11-27 20:45:38,659 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58980)
+2017-11-27 20:45:49,060 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:45:49,060 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:45:49,063 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : ['test', 'test']
+2017-11-27 20:45:49,063 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58982)
+2017-11-27 20:45:49,450 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:45:49,450 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:45:49,456 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 2
+2017-11-27 20:45:49,456 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58983)
+2017-11-27 20:45:53,280 - MonitorApplication - DEBUG - Message Object, Destination: 192.168.249.141 Port: 9487 Type: status_h Content: [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:08'], '2017-11-27 20:45:53'] Sender: 192.168.56.1
+2017-11-27 20:45:53,282 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61570>
+2017-11-27 20:45:54,273 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 20:45:55,416 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:45:55,416 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:45:55,421 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : stop transmit
+2017-11-27 20:45:55,422 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58986)
+2017-11-27 20:45:57,223 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D612B0>
+2017-11-27 20:45:59,263 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 20:46:26,112 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:46:26,112 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:46:26,130 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : stop transmit
+2017-11-27 20:46:26,131 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 58990)
+2017-11-27 20:48:02,066 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:48:02,066 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:48:02,067 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : ['test', 'test']
+2017-11-27 20:48:02,068 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 59018)
+2017-11-27 20:48:02,433 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:48:02,433 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:48:02,439 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 2
+2017-11-27 20:48:02,439 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 59019)
+2017-11-27 20:48:04,186 - MonitorApplication - DEBUG - Message Object, Destination: 192.168.249.141 Port: 9487 Type: status_h Content: [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:08'], '2017-11-27 20:48:04'] Sender: 192.168.56.1
+2017-11-27 20:48:04,187 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61330>
+2017-11-27 20:48:05,143 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:48:08,117 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613D0>
+2017-11-27 20:48:10,392 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:48:10,409 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:48:10,433 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : stop transmit
+2017-11-27 20:48:10,458 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 59023)
+2017-11-27 20:48:11,068 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 20:48:13,983 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79CD0>
+2017-11-27 20:48:15,999 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 20:49:35,889 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:49:35,890 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:49:35,891 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : stop transmit
+2017-11-27 20:49:35,891 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 59030)
+2017-11-27 20:49:38,067 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:49:38,068 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:49:38,068 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : ['test', 'test']
+2017-11-27 20:49:38,069 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 59031)
+2017-11-27 20:49:38,399 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:49:38,399 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:49:38,405 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 2
+2017-11-27 20:49:38,405 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 59032)
+2017-11-27 20:49:40,009 - MonitorApplication - DEBUG - Message Object, Destination: 192.168.249.141 Port: 9487 Type: status_h Content: [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:08'], '2017-11-27 20:49:40'] Sender: 192.168.56.1
+2017-11-27 20:49:40,015 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61570>
+2017-11-27 20:49:40,926 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:49:43,765 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 20:49:46,648 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:49:49,581 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 20:49:52,468 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:49:55,473 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 20:49:58,286 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:50:01,318 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 20:50:04,213 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:50:05,278 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:50:05,278 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:50:05,279 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : stop transmit
+2017-11-27 20:50:05,279 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 59058)
+2017-11-27 20:50:07,139 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61330>
+2017-11-27 20:50:10,014 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 20:50:12,028 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61330>
+2017-11-27 20:51:01,286 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:51:01,286 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:51:01,292 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 2
+2017-11-27 20:51:01,292 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 59068)
+2017-11-27 20:51:04,421 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:51:04,421 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:51:04,422 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : stop transmit
+2017-11-27 20:51:04,422 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 59069)
+2017-11-27 20:51:05,871 - MonitorApplication - DEBUG - Message Object, Destination: 192.168.249.141 Port: 9487 Type: status_h Content: [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:08'], '2017-11-27 20:51:05'] Sender: 192.168.56.1
+2017-11-27 20:51:06,873 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:51:07,876 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2017-11-27 20:51:44,305 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:51:44,305 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:51:44,306 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : ['test', 'test']
+2017-11-27 20:51:44,306 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 59077)
+2017-11-27 20:51:44,635 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:51:44,635 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:51:44,641 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 2
+2017-11-27 20:51:44,642 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 59078)
+2017-11-27 20:51:46,739 - MonitorApplication - DEBUG - Message Object, Destination: 192.168.249.141 Port: 9487 Type: status_h Content: [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:08'], '2017-11-27 20:51:46'] Sender: 192.168.56.1
+2017-11-27 20:51:46,741 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61570>
+2017-11-27 20:51:47,721 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:51:49,366 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:51:49,366 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:51:49,372 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : stop transmit
+2017-11-27 20:51:49,372 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 59085)
+2017-11-27 20:51:50,634 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D612B0>
+2017-11-27 20:51:52,663 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 20:52:06,273 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 20:52:06,274 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 20:52:06,274 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : stop transmit
+2017-11-27 20:52:06,274 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 59088)
+2017-11-27 21:01:46,405 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 21:01:46,406 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 21:01:46,440 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : ['test', 'test']
+2017-11-27 21:01:46,441 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 59558)
+2017-11-27 21:01:46,894 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 21:01:46,895 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 21:01:46,900 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 2
+2017-11-27 21:01:46,900 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 59559)
+2017-11-27 21:01:53,033 - MonitorApplication - DEBUG - Message Object, Destination: 192.168.249.141 Port: 9487 Type: status_h Content: [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:08'], '2017-11-27 21:01:53'] Sender: 192.168.56.1
+2017-11-27 21:01:53,034 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:01:54,323 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:01:57,577 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61B90>
+2017-11-27 21:02:00,836 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 21:02:04,026 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D614D0>
+2017-11-27 21:02:07,298 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:02:10,422 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:02:13,693 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 21:02:16,843 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61B90>
+2017-11-27 21:02:20,096 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:02:23,323 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D614D0>
+2017-11-27 21:02:26,514 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 21:02:29,877 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:02:33,051 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:02:36,309 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61B90>
+2017-11-27 21:02:39,467 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 21:02:42,705 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D614D0>
+2017-11-27 21:02:45,868 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:02:49,078 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:02:52,255 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03CFBD70>
+2017-11-27 21:02:55,600 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61B90>
+2017-11-27 21:02:58,744 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:03:02,010 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D614D0>
+2017-11-27 21:03:04,038 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 21:03:04,039 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 21:03:04,044 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : stop transmit
+2017-11-27 21:03:04,045 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 59622)
+2017-11-27 21:03:05,191 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61350>
+2017-11-27 21:03:08,465 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79CD0>
+2017-11-27 21:03:10,602 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61350>
+2017-11-27 21:04:39,556 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 21:04:39,556 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 21:04:39,562 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : clock change 2
+2017-11-27 21:04:39,563 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 59641)
+2017-11-27 21:04:44,281 - MonitorApplication - DEBUG - Message Object, Destination: 192.168.249.141 Port: 9487 Type: status_h Content: [[4, 8, '0.0', '4200.0', '25649262592', '2017-11-20 22:49:08'], '2017-11-27 21:04:44'] Sender: 192.168.56.1
+2017-11-27 21:04:44,287 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:04:45,438 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:04:48,688 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:04:51,863 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:04:54,994 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:04:58,118 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:05:01,224 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:05:04,280 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:05:07,408 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:05:10,513 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:05:13,646 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:05:16,787 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:05:19,887 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:05:23,023 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:05:26,171 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:05:29,331 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:05:32,702 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:05:35,843 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:05:39,171 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:05:42,362 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:05:45,610 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:05:48,796 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:05:52,106 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:05:55,420 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:05:58,691 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:06:01,857 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:06:04,943 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:06:08,030 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:06:11,233 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:06:14,404 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:06:17,670 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:06:20,876 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:06:24,023 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:06:27,110 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:06:30,253 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:06:33,382 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:06:36,598 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:06:39,737 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:06:42,843 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:06:45,934 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:06:49,041 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:06:52,229 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:06:55,329 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:06:58,409 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:07:01,593 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:07:04,698 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:07:07,867 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:07:11,027 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:07:14,104 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:07:17,210 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:07:20,398 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:07:23,610 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:07:26,717 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:07:29,841 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:07:32,914 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:07:36,045 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:07:39,160 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:07:42,275 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:07:45,342 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:07:48,494 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:07:51,611 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:07:54,749 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:07:57,948 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:08:01,077 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:08:04,184 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:08:07,405 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:08:10,659 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:08:13,913 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:08:17,084 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:08:20,280 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:08:23,548 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:08:26,994 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:08:30,137 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:08:33,283 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:08:36,866 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:08:40,096 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:08:43,355 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:08:46,540 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:08:49,881 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:08:53,318 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:08:56,631 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:08:59,757 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:09:02,915 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:09:06,022 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:09:09,110 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:09:12,339 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:09:15,421 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:09:18,530 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:09:21,762 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:09:24,898 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:09:27,973 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:09:31,112 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:09:34,219 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:09:37,342 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:09:40,409 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:09:43,471 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:09:46,510 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:09:49,535 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:09:52,623 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:09:55,653 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:09:58,780 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:10:01,811 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:10:04,968 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:10:08,008 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:10:11,191 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:10:14,373 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:10:17,593 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:10:20,631 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:10:23,722 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:10:26,752 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:10:29,875 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:10:33,003 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:10:36,143 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:10:39,186 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:10:42,223 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:10:45,337 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:10:48,477 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:10:51,710 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:10:54,793 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:10:58,087 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:11:01,311 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:11:04,512 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:11:07,749 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:11:10,857 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:11:13,933 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:11:16,993 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:11:20,217 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:11:23,389 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:11:26,413 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:11:29,499 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:11:32,928 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:11:36,028 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:11:39,105 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:11:42,138 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:11:45,329 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:11:48,855 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:11:51,964 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:11:55,014 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:11:58,228 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:12:01,367 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:12:04,422 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:12:07,501 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:12:10,580 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:12:13,640 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:12:16,723 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:12:19,839 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:12:23,053 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:12:26,256 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:12:29,443 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:12:32,911 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:12:36,162 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:12:39,283 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:12:42,403 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:12:45,536 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:12:48,769 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:12:51,823 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:12:55,117 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:12:58,318 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:13:01,647 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61230>
+2017-11-27 21:13:04,867 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:13:07,978 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D61210>
+2017-11-27 21:13:11,115 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:13:14,231 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D613B0>
+2017-11-27 21:13:17,478 - MonitorApplication - DEBUG - A new connection coming...
+2017-11-27 21:13:17,500 - MonitorApplication - DEBUG - Start a new thread
+2017-11-27 21:13:17,535 - MonitorApplication - DEBUG - slave4 receive msg from master 192.168.249.141:9487 : stop transmit
+2017-11-27 21:13:17,553 - MonitorApplication - DEBUG - Disconnecting('192.168.56.1', 59969)
+2017-11-27 21:13:17,661 - MonitorApplication - DEBUG - 192.168.56.1 sent msg to 192.168.249.141:9487 : <Message.Message object at 0x03D79E10>
+2017-11-27 21:13:20,670 - MonitorApplication - DEBUG - [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+2020-01-21 21:05:51,666 - MonitorApplication - DEBUG - logger stand by...
+2020-01-21 21:05:51,667 - MonitorApplication - DEBUG - Initializing ...
+
+2020-01-21 21:05:51,667 - MonitorApplication - DEBUG - 
+Local machine check...
+2020-01-21 21:06:22,229 - MonitorApplication - DEBUG - Local machine is confirmed.
+2020-01-21 21:06:22,229 - MonitorApplication - DEBUG - 
+Master machine check...
+2020-01-21 21:06:41,725 - MonitorApplication - DEBUG - Master machine is confirmed.
+2020-01-21 21:06:41,725 - MonitorApplication - DEBUG - 
+Encoder check...
+2020-01-21 21:06:41,725 - MonitorApplication - DEBUG - Encoder is confirmed.
+2020-01-21 21:06:41,725 - MonitorApplication - DEBUG - 
+Decoder check...
+2020-01-21 21:06:41,725 - MonitorApplication - DEBUG - Decoder is confirmed.
+2020-01-21 21:06:41,725 - MonitorApplication - DEBUG - 
+Message center check ...
+2020-01-21 21:06:41,725 - MonitorApplication - DEBUG - Message center is confirmed.
+2020-01-21 21:06:41,726 - MonitorApplication - DEBUG - Server start: test_slave 127.0.0.1:60002
+2020-01-21 21:08:20,524 - MonitorApplication - DEBUG - A new connection coming...
+2020-01-21 21:08:20,525 - MonitorApplication - DEBUG - Start a new thread
+2020-01-21 21:08:20,525 - MonitorApplication - DEBUG - test_slave receive msg from test_slave 127.0.0.1:60002 : ['test', 'test']
+2020-01-21 21:08:20,525 - MonitorApplication - DEBUG - Disconnecting('127.0.0.1', 58893)
+2020-01-21 21:08:22,640 - MonitorApplication - DEBUG - A new connection coming...
+2020-01-21 21:08:22,640 - MonitorApplication - DEBUG - Start a new thread
+2020-01-21 21:08:22,647 - MonitorApplication - DEBUG - test_slave receive msg from test_slave 127.0.0.1:60002 : clock change 5
+2020-01-21 21:08:22,647 - MonitorApplication - DEBUG - Disconnecting('127.0.0.1', 58900)
